@@ -18,7 +18,7 @@ const quizData = [
 
     },
     {
-        question: "who is the president of india?",
+        question: "who is the prime misnister of india?",
         a: "amit shah",
         b: "narendra modi",
         c: "rahul gandhi",
